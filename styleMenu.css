@@ -187,8 +187,7 @@ body{
 	display: block;
 	width: 100%;
 	min-height: 100vh;
-	background-image: url(assets/images/game.jpg);
-	background-size: cover;
+	background-image: url(assets/images/generos-de-games.jpg);
 	background-position: center top;
 }
 
@@ -196,10 +195,8 @@ body{
 	text-align:right;
 	margin-right: 240px;
 	height: auto;
-	width: auto;
-	text-shadow: rgba(46,199,38);
-	margin-top: 80px;
+	width: auto;  
+	margin-top: -5px;
 	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-	font-size: 50px;
-
+	font-size: 80px;
 }
