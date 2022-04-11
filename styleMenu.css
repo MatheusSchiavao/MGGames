@@ -45,7 +45,7 @@ body{
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	margin-top: -100px;
+	margin-top: -200px;
 }
 
 .header .nav-toggle span{
@@ -199,5 +199,5 @@ body{
 	margin-top: -5px;
 	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 	font-size: 80px;
-	color:aqua;
+	color:#111111;
 }
