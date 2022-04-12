@@ -12,6 +12,7 @@
 @media (min-width: 1630px){}
 .container {
     width: 1630px;
+    height: 400px;
 }
 .parallax {
     background-attachment: inherit !important;
@@ -180,6 +181,7 @@ img {
     display: inline-block;
     max-width: 75%;
     vertical-align: middle;
+    margin-left: 200px;
 }
 .fa {
   font-size: 42px;
@@ -246,7 +248,7 @@ html,body{
     height: 100%;
     width: 100%;
     place-items: center;
-    background: linear-gradient(315deg, #ffffff 0%, #d7e1ec 74%);
+    background: linear-gradient(315deg, #3755db 10%, #a8c5e2 74%);
   }
 
   .wrapper .button{
@@ -261,6 +263,7 @@ html,body{
     cursor: pointer;
     box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
     transition: all 0.3s ease-out;
+    margin-top: -50px;
   }
 
   .wrapper .button:hover{
@@ -345,7 +348,7 @@ html,body{
     cursor: pointer;
     box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
     transition: all 0.3s ease-out;
- 
+    margin-top: -300px;
   }
 
   .wrapper2 .button2:hover{
