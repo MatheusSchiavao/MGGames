@@ -432,5 +432,5 @@ html,body{
     border-radius: 50px;
   }
   .imagem{
-   
+   background-attachment: fixed;
   }
