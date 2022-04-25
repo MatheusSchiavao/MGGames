@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
 
 * {
     padding: 0;
@@ -11,7 +11,8 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(assets/images/generos-de-games.jpg);
+    background: linear-gradient(#000000, #434343);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .login-box{
@@ -32,6 +33,9 @@ body{
     padding: 0;
     color: #fff;
     text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #6959CD;
+    font-size: 35px;
 }
 
 .login-box .user-box{
@@ -60,6 +64,8 @@ body{
     color: #fff;
     pointer-events: none;
     transition: .5s;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
 }
 
 .login-box .user-box input:focus ~ label,
@@ -67,7 +73,7 @@ body{
     top: -20px;
     left: 0;
     color:  #6959CD;
-    font-size: 12px;
+    font-size: 18px;
 }
 
 .login-box form a{
@@ -97,6 +103,7 @@ body{
     .login-box a span{
         position: absolute;
         display: block;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     }
 
     .login-box a span:nth-child(1){
