@@ -434,13 +434,13 @@ html,body{
   }
 
   ::-webkit-scrollbar-track{
-    background:#6959CD;
-    border-radius: 50px;
+    background:#1e75e7;
+    border-radius: 30px;
   }
 
   ::-webkit-scrollbar-thumb{
     background: #000;
-    border-radius: 50px;
+    border-radius: 30px;
   }
   .imagem{
    background-attachment: fixed;
