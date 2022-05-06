@@ -1,0 +1,47 @@
+
+        <legend class="nomeP">MG Games</legend>
+        <br>
+        <div class="Gj">
+            <label>Gênero do jogo:</label>
+            <select>
+          <option value="" selected>Escolha</option>
+          <option value="Ação">Ação</option>
+          <option value="Esporte">Esporte</option>
+          <option value="Simulação">Simulação</option>
+          <option value="Terror">Terror</option>
+          <option value="RPG">RPG</option>
+      </select><br>
+            <div class="Pg">
+                <label>Plataformas:</label>
+                <select>
+                <option value="" selected>Escolha</option>
+                <option value="PS4">PS4</option>
+                <option value="PS5">PS5</option>
+                <option value="xbox Series ">Xbox Series</option>
+                <option value="Xbox One">XBOX One</option>
+                <option value="Nitendo Switch">Nitendo Switch</option>
+                <option value="PC">PC</option>
+            </select><br>
+            </div>
+            <br>
+            <input type="range" list="tickmarks">
+              <datalist id="tickmarks">
+               <option value="Livre"></option>
+               <option value="10"></option>
+                <option value="12"></option>
+                <option value="14"></option>
+                <option value="16"></option>
+                <option value="18"></option>
+      </datalist>
+            <br>
+            <div class="fp">Forma de pagamento:
+                <br>
+                <input type="radio" name="sexo" value="Cartao de credito">Cartao de credito
+                <input type="radio" name="sexo" value="Cartao de debito">Cartao de debito
+                <input type="radio" name="sexo" value="Pix">Pix
+                <input type="radio" name="sexo" value="Dinheiro">Dinheiro
+            </div>
+            <br>
+            <button type="button" onclick="alert('Pedido feito')">
+      <b>Pedir</b>
+      </button>

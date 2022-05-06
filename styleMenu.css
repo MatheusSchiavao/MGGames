@@ -196,17 +196,6 @@ body{
 	background-repeat: no-repeat;
 }
 
-.titulo{
-	text-align:center;
-	margin-right: 15px;
-	height: auto;
-	width: auto;  
-	margin-top: -5px;
-	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-	font-size: 80px;
-	color:#fdfeff;
-}
-
 .glitch {
 	font-size: 100px;
 	position: relative;
