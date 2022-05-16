@@ -25,4 +25,5 @@
      echo "O número de categorias com o nome pesquisado é de: ".$numero_resultado;
     //se nao existir... cadastra!
     //se existir... voltamos para o formulário!
+    
 ?>
