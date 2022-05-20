@@ -37,6 +37,8 @@ body{
 .header .row{
 	justify-content: space-between;
 	align-items: center;
+	position: sticky;
+	top: 0;
 }
 
 .header .nav-toggle{
@@ -49,6 +51,8 @@ body{
 	align-items: center;
 	justify-content: center;
 	margin-top: -190px;
+	position:sticky;
+	top: 0;
 }
 
 .header .nav-toggle span{
